@@ -6,4 +6,4 @@ primeros es igual al tercero.
 
 ## Diagrama de flujo 
 
-![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](digrama.png "Diagrama de flujo")
